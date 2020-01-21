@@ -1,4 +1,4 @@
-# The GoPro Labs github pages theme
+# The GoPro Labs GitHub Pages Theme
 
 Based off the Cayman theme.
 
