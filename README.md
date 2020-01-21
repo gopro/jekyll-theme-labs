@@ -1,4 +1,4 @@
-# The Otto theme
+# The GoPro Labs github pages theme
 
 Based off the Cayman theme.
 
